@@ -10,7 +10,7 @@ namespace Lesson_1_Binary_Gap
     {
         static void Main(string[] args)
         {
-            int N = 529;
+            int N = 1041;
             string binaryNumber = Convert.ToString(N, 2);
             Console.WriteLine("Binary Number:"+ binaryNumber);
             int binaryGap = GetBinaryGap(binaryNumber);
