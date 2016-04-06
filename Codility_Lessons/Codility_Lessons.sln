@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2_CyclicRotation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2_OddOccurrencesInArray", "Lesson_2_OddOccurrencesInArray\Lesson_2_OddOccurrencesInArray.csproj", "{06F96B14-642C-4A9B-9CCA-A0DCDA6D0153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_3_FrogJmp", "Lesson_3_FrogJmp\Lesson_3_FrogJmp.csproj", "{AA76055A-BBB7-41F2-B5BE-5DBBB7591A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{06F96B14-642C-4A9B-9CCA-A0DCDA6D0153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06F96B14-642C-4A9B-9CCA-A0DCDA6D0153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06F96B14-642C-4A9B-9CCA-A0DCDA6D0153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA76055A-BBB7-41F2-B5BE-5DBBB7591A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA76055A-BBB7-41F2-B5BE-5DBBB7591A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA76055A-BBB7-41F2-B5BE-5DBBB7591A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA76055A-BBB7-41F2-B5BE-5DBBB7591A59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
