@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AA76055A-BBB7-41F2-B5BE-5DBBB7591A59}</ProjectGuid>
+    <ProjectGuid>{2A835E70-E465-4911-93BE-9C66B0241346}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lesson_3_FrogJmp</RootNamespace>
-    <AssemblyName>Lesson_3_FrogJmp</AssemblyName>
+    <RootNamespace>Lesson_3_TapeEquilibrium</RootNamespace>
+    <AssemblyName>Lesson_3_TapeEquilibrium</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
